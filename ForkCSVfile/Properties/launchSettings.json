@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ForkCSVfile": {
+      "commandName": "Project",
+      "commandLineArgs": "fileData.tsv.txt tsv 3"
+    }
+  }
+}
